@@ -1,0 +1,3 @@
+team_id,name,phone,email,sticky_phone_number_id,address,gender
+1,Den,309999999,den@test.ua,123445,Street 5,male
+2,Nata,3099888888,nata@test.ua,32323232,Street 4,female
